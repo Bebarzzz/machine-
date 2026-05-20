@@ -1,0 +1,10 @@
+# CatBoost
+catboost_info/
+
+# Keras Tuner
+keras_tuner_dir/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
